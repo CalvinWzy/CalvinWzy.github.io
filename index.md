@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is Calvin Wu's github pages for MSBA
 
 You can use the [editor on GitHub](https://github.com/CalvinWzy/CalvinWzy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
